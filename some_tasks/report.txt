@@ -1,0 +1,9 @@
+.css
+- - - my_css.css
+.html
+- - - my_html.html
+.py
+- - - Directory_Traversal.py
+.txt
+- - - report.txt
+- - - text.txt
